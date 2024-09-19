@@ -1,53 +1,64 @@
-# Tanvir Hasan Abir
+<h1 align="center">Hi there 👋, I'm Tanvir Hasan Abir</h1>
+<h3 align="center">A passionate software engineer and problem solver from Bangladesh</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thabir303&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thabir303)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=thabir303&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thabir303&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thabir303&theme=radical" alt="GitHub Streak" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=thabir303&label=Profile%20views&color=0e75b6&style=flat" alt="thabir303" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thabir303&margin-w=15&theme=onedark" alt="thabir303" />
+  </a> 
 </p>
 
-<details>
-  <summary>💻 Most Used Languages</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabir303&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
-</details>
+- 📫 Reach me at: **bsse1321@iit.du.ac.bd**
 
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+### 🌐 Connect with me:
 
-## 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/tanvir-hasan-abir" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/tanvir-hasan-abir" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/th_abir303" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/th_abir303" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
 </p>
 
-## 📫 How to Reach Me
-- Email: bsse1321@iit.du.ac.bd
+### 🛠️ Languages and Tools:
+
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF71A&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Passionate+about+coding;Open+for+collaboration" alt="Typing SVG" />
+### 📊 GitHub Stats:
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thabir303&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thabir303&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thabir303&theme=radical" alt="GitHub Streak" />
 </p>
