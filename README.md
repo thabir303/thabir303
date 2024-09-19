@@ -1,7 +1,7 @@
 <h1 align="center">Tanvir Hasan Abir</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Competitive+Programmer;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,15 +9,24 @@
   <img src="https://img.shields.io/github/followers/thabir303?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
----
+## 👨‍💻 About Me
+
+<p align="center">
+  Hello! I'm Abir, a passionate Software Engineering undergraduate student at the Institute of Information Technology (IIT), University of Dhaka. I'm on a journey to become a skilled full-stack developer and problem solver.
+</p>
+
+<p align="center">
+  🎓 Studying Software Engineering at IIT, University of Dhaka<br>
+  💻 Aspiring Full Stack Developer<br>
+  🏆 Competitive Programmer<br>
+  🌱 Always eager to learn and grow
+</p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thabir303&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -32,8 +41,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabir303&layout=compact&theme=algolia" alt="Top Languages" />
   </p>
 </details>
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -64,8 +71,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -82,8 +87,6 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
-
----
 
 ## 📫 Get in Touch
 
