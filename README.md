@@ -1,20 +1,22 @@
 <h1 align="center">Tanvir Hasan Abir</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Competitive+Programmer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Competitive+Programmer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thabir303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/thabir303?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
+👨‍💻 About Me
 <p align="center">
   Hello! I'm Abir, a passionate Software Engineering undergraduate student at the Institute of Information Technology (IIT), University of Dhaka. I'm on a journey to become a skilled full-stack developer and problem solver.
+</p>
+<p align="center">
+  🎓 Studying Software Engineering at IIT, University of Dhaka<br>
+  💻 Aspiring Full Stack Developer<br>
+  🏆 Competitive Programmer<br>
+  🤖 Currently working on Machine Learning from various sources<br>
+  🌱 Always eager to learn and grow
 </p>
 
 <p align="center">
