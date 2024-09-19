@@ -14,7 +14,6 @@
 <p align="center">
   🎓 Studying Software Engineering at IIT, University of Dhaka<br>
   🤖 Currently expanding my knowledge in Machine Learning through various resources<br>
-<!--   💻 Aspiring Full Stack Developer<br> -->
   🏆 Competitive Programmer<br>
   🌱 Always eager to learn and grow
 </p>
@@ -79,10 +78,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/tanvir-hasan-abir](https://www.linkedin.com/in/tanvir-hasan-abir-30219b264/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tanvir-hasan-abir-30219b264/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://fb.com/tanvir-hasan-abir](https://www.facebook.com/tanvirhasan.abir.1321)" target="_blank">
+  <a href="https://www.facebook.com/tanvirhasan.abir.1321" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://codeforces.com/profile/th_abir303" target="_blank">
