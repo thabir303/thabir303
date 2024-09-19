@@ -1,6 +1,6 @@
 <h1 align="center">Tanvir Hasan Abir</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Competitive+Programmer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Competitive+Programmer;" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thabir303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,15 +13,8 @@
 </p>
 <p align="center">
   🎓 Studying Software Engineering at IIT, University of Dhaka<br>
-  💻 Aspiring Full Stack Developer<br>
-  🏆 Competitive Programmer<br>
-  🤖 Currently working on Machine Learning from various sources<br>
-  🌱 Always eager to learn and grow
-</p>
-
-<p align="center">
-  🎓 Studying Software Engineering at IIT, University of Dhaka<br>
-  💻 Aspiring Full Stack Developer<br>
+  🤖 Currently expanding my knowledge in Machine Learning through various resources<br>
+<!--   💻 Aspiring Full Stack Developer<br> -->
   🏆 Competitive Programmer<br>
   🌱 Always eager to learn and grow
 </p>
@@ -86,17 +79,17 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tanvir-hasan-abir" target="_blank">
+  <a href="[https://linkedin.com/in/tanvir-hasan-abir](https://www.linkedin.com/in/tanvir-hasan-abir-30219b264/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/tanvir-hasan-abir" target="_blank">
+  <a href="[https://fb.com/tanvir-hasan-abir](https://www.facebook.com/tanvirhasan.abir.1321)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.codechef.com/users/th_abir303" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://codeforces.com/profile/th_abir303" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/th_abir303" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
