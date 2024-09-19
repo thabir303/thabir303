@@ -91,6 +91,12 @@
   <a href="https://www.codechef.com/users/th_abir303" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
+  <a href="https://leetcode.com/u/th_abir303/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/th_abir303" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 ---
