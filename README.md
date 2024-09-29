@@ -9,7 +9,7 @@
 
 👨‍💻 About Me
 <p align="center">
-  Hello! I'm Abir, a passionate Software Engineering undergraduate student at the Institute of Information Technology (IIT), University of Dhaka. I'm on a journey to become a skilled full-stack developer and problem solver.
+  Hello! I'm Abir, a passionate Software Engineering undergraduate student at the **Institute of Information Technology (IIT), University of Dhaka.** I'm on a journey to become a skilled full-stack developer and problem solver.
 </p>
 <p align="center">
   🎓 Studying Software Engineering at IIT, University of Dhaka<br>
