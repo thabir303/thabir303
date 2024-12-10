@@ -2,10 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Competitive+Programmer;" alt="Typing SVG" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thabir303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/thabir303?label=Followers&style=social" alt="GitHub followers" />
-</p>
+</p> -->
 
 👨‍💻 About Me
 <p align="center">
