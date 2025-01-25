@@ -18,7 +18,6 @@
   🌱 Always eager to learn and grow
 </p>
 
----
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -26,7 +25,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=thabir303&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -42,7 +41,7 @@
   </p>
 </details>
 
----
+
 
 ## 🛠️ Skills & Technologies
 
@@ -73,7 +72,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
 
 ## 🌐 Connect with Me
 
@@ -98,7 +96,6 @@
   </a>
 </p>
 
----
 
 ## 📫 Get in Touch
 
@@ -108,13 +105,10 @@
   </a>
 </p>
 
----
-
 <h3 align="center">💡 Random Dev Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
 </p>
 
----
 
 <h3 align="center">👨‍💻 Happy Coding!</h3>
