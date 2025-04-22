@@ -1,114 +1,80 @@
-<h1 align="center">Tanvir Hasan Abir</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Competitive+Programmer;" alt="Typing SVG" />
-</p>
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thabir303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thabir303?label=Followers&style=social" alt="GitHub followers" />
-</p> -->
-
-👨‍💻 About Me
-<p align="center">
-  Hello! I'm Abir, a passionate Software Engineering undergraduate student at the <strong>Institute of Information Technology (IIT), University of Dhaka</strong>.  I'm on a journey to become a skilled full-stack developer and problem solver.
-</p>
-<p align="center">
-  🎓 Studying Software Engineering at IIT, University of Dhaka<br>
-  🤖 Currently expanding my knowledge in Machine Learning through various resources<br>
-  🏆 Competitive Programmer<br>
-  🌱 Always eager to learn and grow
-</p>
-
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thabir303&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thabir303&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thabir303&theme=algolia" alt="GitHub Streak" />
-</p>
-
-<details>
-  <summary align="center">💻 Most Used Languages</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabir303&layout=compact&theme=algolia" alt="Top Languages" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Tanvir%20Hasan%20Abir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Trainee+at+Brain+Station-23;Competitive+Programmer" alt="Typing SVG" />
   </p>
-</details>
 
-
-
-## 🛠️ Skills & Technologies
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Database
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanvir-hasan-abir-30219b264/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:bsse1321@iit.du.ac.bd">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.facebook.com/tanvirhasan.abir.1321" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.linkedin.com/in/tanvir-hasan-abir-30219b264/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/th_abir303" target="_blank">
+  <a href="https://codeforces.com/profile/th_abir303">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/th_abir303" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  <a href="https://leetcode.com/u/th_abir303/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://leetcode.com/u/th_abir303/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/th_abir303" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
+</div>
 
+## 👨‍💻 About Me
 
-## 📫 Get in Touch
+I'm a Software Engineering undergraduate at the **Institute of Information Technology (IIT), University of Dhaka**, with a passion for building elegant solutions to complex problems. Currently serving as a **Trainee Software Engineer at Brain Station 23**, I'm developing my expertise in Django and FastAPI while exploring the depths of modern web development.
 
-<p align="center">
-  <a href="mailto:bsse1321@iit.du.ac.bd">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- 🎓 Software Engineering student at IIT, University of Dhaka
+- 💼 Trainee Software Engineer at Brain Station 23
+- 🌱 Focusing on Django and FastAPI ecosystem
+- 🤖 Exploring Machine Learning and its applications
+- 🏆 Active competitive programmer and problem solver
 
-<h3 align="center">💡 Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
-</p>
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<h3 align="center">👨‍💻 Happy Coding!</h3>
+|**Category**|**Technologies**|
+|:---:|:---|
+|**Frontend**|<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />|
+|**Backend**|<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />|
+|**Database**|<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />|
+|**Tools**|<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />|
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thabir303&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thabir303&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thabir303&theme=tokyonight" width="98%" alt="GitHub Profile Summary" />
+</div>
+
+<details>
+  <summary align="center"><b>🔎 More GitHub Insights</b></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabir303&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thabir303&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  </div>
+</details>
+
+## 🌱 Current Focus
+
+```
+💻 Mastering Django ORM and FastAPI for high-performance APIs
+🔍 Implementing clean architecture principles in web applications
+🔧 Working with containerized environments using Docker
+```
+
+## 📌 Featured Projects
+
+<div align="center">
+  
+Coming soon! Stay tuned for my portfolio of projects that demonstrate my skills and interests.
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=120&section=footer" alt="Footer" />
+</div>
